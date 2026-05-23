@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TL072")(type "KiCad")(uri "/home/aihemel/Downloads/TL072/TL072.kicad_sym")(options "")(descr ""))
+  (lib (name "YAAJ_BluePill_Part_Like_SWD_Breakout")(type "Legacy")(uri "/home/aihemel/Downloads/Kicad-STM32-master/Symbols/YAAJ_BluePill_Part_Like_SWD_Breakout.lib")(options "")(descr ""))
+  (lib (name "inmp441_microphone_i2s")(type "KiCad")(uri "/home/aihemel/Downloads/KiCad-Custom-Parts-main/Microphone/inmp441_microphone_i2s.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-S3-DEVKITC-1-N16R8V")(type "KiCad")(uri "/home/aihemel/Downloads/ESP32-S3-DEVKITC-1-N16R8V/ESP32-S3-DEVKITC-1-N16R8V.kicad_sym")(options "")(descr ""))
+)

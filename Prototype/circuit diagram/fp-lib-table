@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Footprints")(type "KiCad")(uri "/home/aihemel/Downloads/Kicad-STM32-master/Footprints")(options "")(descr ""))
+  (lib (name "ESP32-S3-DEVKITC-1-N16R8V")(type "KiCad")(uri "/home/aihemel/Downloads/ESP32-S3-DEVKITC-1-N16R8V")(options "")(descr ""))
+  (lib (name "TL072")(type "KiCad")(uri "/home/aihemel/Downloads/TL072")(options "")(descr ""))
+  (lib (name "ICL7660")(type "KiCad")(uri "/home/aihemel/Downloads/ICL7660")(options "")(descr ""))
+)
